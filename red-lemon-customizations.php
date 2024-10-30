@@ -39,7 +39,8 @@ function safe_include_once($filePath) {
 $customFiles = [
     plugin_dir_path(__FILE__) . 'includes/custom-products-description.php',
     plugin_dir_path(__FILE__) . 'includes/redirect-to-checkout.php',
-    plugin_dir_path(__FILE__) . 'includes/hide-subtotal.php'
+		plugin_dir_path(__FILE__) . 'includes/hide-subtotal.php',
+		plugin_dir_path(__FILE__) . 'includes/hide-email-order-meta.php'
 ];
 
 // Loop through and include each file safely
