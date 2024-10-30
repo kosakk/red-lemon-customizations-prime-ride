@@ -4,7 +4,7 @@ Plugin Name: Red Lemon Customizations
 Plugin URI: https://redlemon.gr/plugins/wp/primerides-gr
 Description: A plugin to add custom functions and code to the Prime Rides site.
 Version: 1.0.1
-Requires at least: 7.4
+Requires at least: 6.6.2
 Author: Red Lemon
 Author URI: https://redlemon.gr/
 Text Doamin: redlemon
